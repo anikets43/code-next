@@ -1,1 +1,12 @@
-/* You can add global styles to this file, and also import other style files */
+.cm-tooltip-autocomplete li {
+  font-size: 14px !important;
+  display: block;
+  padding: 0.3rem;
+  color: black;
+  font-weight: 600;
+}
+
+.cm-tooltip-autocomplete .cm-tooltip {
+  background-color: rgb(255 255 255);
+  border: 1px solid rgb(204 204 204);
+}
